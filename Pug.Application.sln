@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pug.Application", "src\Pug.Application\Pug.Application.csproj", "{F6A7011F-8B34-4BAB-BDCE-7FB396096C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A7011F-8B34-4BAB-BDCE-7FB396096C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A7011F-8B34-4BAB-BDCE-7FB396096C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A7011F-8B34-4BAB-BDCE-7FB396096C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A7011F-8B34-4BAB-BDCE-7FB396096C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
